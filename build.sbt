@@ -3,7 +3,7 @@ import NativePackagerHelper._
 val commonSettings = Seq(
   organization := "your.organization",
   version := "2.4.3",
-  scalaVersion := "2.11.7",
+  scalaVersion := "2.11.8",
   //scalaVersion := "2.10.4",
   
   // build info
